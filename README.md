@@ -1,9 +1,12 @@
-# Hi 👋, I'm Ame  
+# Hi 👋, I'm Amr
 A passionate Java Backend developer from Egypt  
-
-- 🌱 I’m currently learning **Flutter Development**  
-- 💬 Ask me about **Spring**  
+ 
+- 💬 Ask me about **Spring Boot**  
 - 📫 How to reach me: **amrbngamalbnkamel@gmail.com**
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-gamal-038261292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024925287147)
 
 ## Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white)
