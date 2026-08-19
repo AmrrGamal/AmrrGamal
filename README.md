@@ -32,7 +32,10 @@ A passionate **Manual Software Tester (QA Engineer)** from Egypt.
 
 * Software Testing Life Cycle (STLC)
 * Software Development Life Cycle (SDLC)
+* Static Testing
+* Dynamic Testing
 * Functional Testing
+* Non-Functional Testing
 * Regression Testing
 * Smoke Testing
 * Sanity Testing
@@ -51,3 +54,5 @@ A passionate **Manual Software Tester (QA Engineer)** from Egypt.
 * Bug Reporting
 * Requirements Traceability Matrix (RTM)
 * Test Execution & Test Closure Reports
+* Jira
+* Jmeter
